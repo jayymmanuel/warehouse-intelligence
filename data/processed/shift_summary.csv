@@ -1,0 +1,3 @@
+shift,pick_events,picked_units,slow_picks,active_pick_hours,benchmark_gap_hours,units_per_active_pick_hour,slow_pick_rate
+Early,17929,70644,4363,380.88,74.32,185.47574039067422,0.24334876457136484
+Late,13901,54573,4929,332.49,83.21,164.13425967698277,0.3545788072800518

@@ -1,0 +1,22 @@
+{
+  "pick_raw_records": 32335,
+  "pick_duplicate_exports_removed": 135,
+  "stockcount_raw_records": 2618,
+  "stockcount_duplicate_exports_removed": 18,
+  "pick_rejections_by_reason": {
+    "invalid_duration": 275,
+    "invalid_picked_quantity": 65,
+    "unknown_sku": 30
+  },
+  "stockcount_rejections_by_reason": {
+    "missing_physical_qty": 17,
+    "negative_quantity": 10
+  },
+  "pick_clean_records": 31830,
+  "pick_rejected_records": 370,
+  "stockcount_clean_records": 2573,
+  "stockcount_rejected_records": 27,
+  "zone_corrected_from_sku_master": 0,
+  "calendar_source_type": "live_public_api",
+  "bank_holiday_source_url": "https://www.gov.uk/bank-holidays.json"
+}

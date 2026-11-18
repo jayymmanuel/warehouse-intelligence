@@ -1,0 +1,25 @@
+name: Pipeline and data-quality tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Rebuild pipeline from raw data
+        run: |
+          python src/generate_data.py
+          python src/clean_and_load.py
+          python src/build_report.py
+          python src/build_dashboard.py
+      - name: Run data-quality tests
+        run: python -m unittest discover -s tests -v

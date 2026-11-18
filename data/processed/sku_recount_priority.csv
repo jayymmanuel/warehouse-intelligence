@@ -1,0 +1,11 @@
+zone,sku_id,picks,counts,mismatch_pct,short_pick_pct,count_discrepancy_pct,priority_score
+High-Bay,SKU0098,75,8,5.33,5.33,37.5,0.972
+High-Bay,SKU0123,174,13,4.6,6.9,30.8,0.966
+High-Bay,SKU0085,67,11,7.46,4.48,27.3,0.926
+High-Bay,SKU0149,382,11,3.14,4.19,54.5,0.898
+High-Bay,SKU0101,161,16,3.11,6.21,25.0,0.888
+High-Bay,SKU0074,165,17,3.64,4.24,29.4,0.886
+Chilled,SKU0110,72,15,4.17,4.17,26.7,0.884
+High-Bay,SKU0139,171,19,6.43,2.92,36.8,0.88
+High-Bay,SKU0070,159,13,4.4,3.14,23.1,0.843
+Bulk,SKU0071,176,17,2.84,3.41,29.4,0.839

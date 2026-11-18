@@ -1,0 +1,22 @@
+{
+  "pick_events": 31830,
+  "requested_units": 126577,
+  "picked_units": 125217,
+  "fill_rate": 0.98926,
+  "slow_pick_rate": 0.29193,
+  "location_mismatch_rate": 0.01725,
+  "benchmark_gap_hours": 157.53,
+  "late_units_per_hour": 164.13,
+  "early_units_per_hour": 185.48,
+  "high_bay_inventory_exact_match_rate": 0.77075,
+  "slow_picks_with_breakdown_share": 0.5276,
+  "slow_pick_rate_excluding_breakdowns": 0.16305,
+  "late_minus_early_mean_pick_seconds": 9.63,
+  "shift_gap_explained_by_breakdown_mix_seconds": 2.66,
+  "preholiday_5d_picks_per_day": 181.5,
+  "other_days_picks_per_day": 119.0,
+  "high_bay_skus_in_top10_recount_priority": 8,
+  "weekly_slow_rate_min": 0.24754,
+  "weekly_slow_rate_max": 0.32111,
+  "bank_holidays_source_type": "live_public_api"
+}

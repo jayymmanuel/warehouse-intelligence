@@ -1,0 +1,28 @@
+count_id,count_date,sku_id,system_qty,physical_qty,location,count_method,rejection_reason
+C000098,2026-09-15,SKU0115,243,,01-12-04,Routine,missing_physical_qty
+C000125,2026-03-07,SKU0029,304,,02-01-07,Routine,missing_physical_qty
+C000144,2026-07-08,SKU0079,27,,02-07-07,Routine,missing_physical_qty
+C000188,2026-03-14,SKU0023,175,,01-13-02,Spot Check,missing_physical_qty
+C000234,2026-08-29,SKU0137,-1,209.0,03-12-03,Routine,negative_quantity
+C000265,2026-02-24,SKU0104,-1,277.0,04-02-06,Routine,negative_quantity
+C000356,2026-03-23,SKU0049,-1,314.0,03-09-04,Spot Check,negative_quantity
+C000457,2026-05-02,SKU0093,128,,02-10-01,Routine,missing_physical_qty
+C000706,2026-06-22,SKU0044,319,,04-08-07,Routine,missing_physical_qty
+C000794,2026-05-18,SKU0004,238,,02-12-01,Routine,missing_physical_qty
+C000819,2026-05-07,SKU0082,248,,01-14-01,Spot Check,missing_physical_qty
+C001000,2026-03-30,SKU0124,85,,01-03-04,Spot Check,missing_physical_qty
+C001024,2026-06-15,SKU0050,165,,02-09-07,Routine,missing_physical_qty
+C001079,2026-04-07,SKU0088,-1,246.0,01-12-02,Routine,negative_quantity
+C001131,2026-09-02,SKU0066,306,,02-13-02,Routine,missing_physical_qty
+C001220,2026-07-08,SKU0118,305,,03-05-03,Routine,missing_physical_qty
+C001429,2026-03-11,SKU0115,-1,48.0,01-12-04,Routine,negative_quantity
+C001483,2026-03-31,SKU0112,165,,05-09-06,Routine,missing_physical_qty
+C001686,2026-01-20,SKU0066,-1,199.0,02-13-02,Spot Check,negative_quantity
+C002037,2026-07-15,SKU0053,-1,62.0,05-07-06,Routine,negative_quantity
+C002048,2026-03-23,SKU0147,102,,02-08-02,Routine,missing_physical_qty
+C002287,2026-03-30,SKU0118,221,,03-05-03,Routine,missing_physical_qty
+C002322,2026-04-06,SKU0002,-1,172.0,01-10-04,Routine,negative_quantity
+C002339,2026-10-21,SKU0138,260,,03-14-07,Routine,missing_physical_qty
+C002344,2026-05-05,SKU0106,-1,249.0,05-10-01,Routine,negative_quantity
+C002432,2026-02-05,SKU0004,-1,25.0,02-12-01,Routine,negative_quantity
+C002481,2026-09-12,SKU0144,173,,02-12-04,Spot Check,missing_physical_qty

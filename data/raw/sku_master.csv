@@ -1,0 +1,181 @@
+sku_id,category,abc_class,zone,expected_location,unit_weight_kg,unit_cost_gbp
+SKU0001,Household,A,Ambient-B,02-08-02,1.23,14.76
+SKU0002,Grocery,C,Ambient-A,01-10-04,2.54,16.07
+SKU0003,Household,C,Ambient-A,01-04-01,0.49,22.41
+SKU0004,Grocery,C,Ambient-B,02-12-01,3.84,13.89
+SKU0005,Seasonal,C,Ambient-B,02-03-04,2.41,16.51
+SKU0006,Household,C,Ambient-A,01-05-03,1.74,1.83
+SKU0007,Beverages,B,Ambient-A,01-03-05,0.54,22.19
+SKU0008,Grocery,C,Chilled,03-11-01,2.54,18.91
+SKU0009,Beverages,C,Ambient-B,02-03-01,1.92,9.82
+SKU0010,Beverages,C,Bulk,04-02-07,2.39,14.88
+SKU0011,Health & Beauty,C,Chilled,03-07-07,1.86,3.59
+SKU0012,Pet Care,B,Ambient-A,01-12-05,0.55,7.32
+SKU0013,Household,B,Chilled,03-01-07,1.15,1.38
+SKU0014,Beverages,B,Ambient-B,02-06-01,1.21,7.8
+SKU0015,Household,B,Bulk,04-01-06,4.26,19.34
+SKU0016,Household,B,Chilled,03-08-01,0.47,3.92
+SKU0017,Grocery,C,Ambient-A,01-13-07,0.29,17.27
+SKU0018,Grocery,B,Ambient-B,02-06-03,5.56,13.05
+SKU0019,Seasonal,C,Bulk,04-06-04,2.51,12.12
+SKU0020,Grocery,B,Ambient-B,02-06-03,0.81,13.4
+SKU0021,Health & Beauty,A,High-Bay,05-02-06,0.54,11.59
+SKU0022,Pet Care,C,Ambient-B,02-13-07,1.55,16.56
+SKU0023,Household,C,Ambient-A,01-13-02,4.31,20.38
+SKU0024,Household,C,Ambient-A,01-08-03,0.41,17.85
+SKU0025,Pet Care,A,Ambient-B,02-13-02,2.36,11.12
+SKU0026,Grocery,A,Ambient-B,02-12-05,4.75,17.75
+SKU0027,Grocery,A,Bulk,04-13-04,0.55,12.93
+SKU0028,Health & Beauty,A,Ambient-A,01-03-01,1.16,15.97
+SKU0029,Grocery,C,Ambient-B,02-01-07,1.14,19.69
+SKU0030,Household,A,Bulk,04-08-04,0.27,17.62
+SKU0031,Grocery,C,Ambient-B,02-05-05,2.42,17.6
+SKU0032,Household,C,Ambient-B,02-01-04,3.54,19.71
+SKU0033,Household,A,Ambient-A,01-05-07,0.53,6.95
+SKU0034,Grocery,C,Ambient-A,01-07-03,4.4,21.27
+SKU0035,Pet Care,B,Bulk,04-03-03,2.97,13.13
+SKU0036,Household,C,Chilled,03-05-03,1.04,5.56
+SKU0037,Beverages,C,Ambient-A,01-13-04,1.25,22.17
+SKU0038,Pet Care,B,Ambient-B,02-13-04,0.66,20.9
+SKU0039,Beverages,C,Ambient-A,01-11-05,1.93,14.58
+SKU0040,Health & Beauty,B,High-Bay,05-07-04,1.39,15.11
+SKU0041,Beverages,B,Chilled,03-12-06,1.33,8.39
+SKU0042,Grocery,C,Ambient-A,01-14-06,1.04,20.61
+SKU0043,Household,A,Chilled,03-02-03,0.63,7.53
+SKU0044,Pet Care,C,Bulk,04-08-07,11.15,19.43
+SKU0045,Health & Beauty,C,Ambient-A,01-03-07,1.35,13.27
+SKU0046,Pet Care,B,Bulk,04-13-03,0.93,6.25
+SKU0047,Beverages,C,Ambient-B,02-13-05,0.91,17.36
+SKU0048,Grocery,C,Ambient-B,02-13-04,0.34,20.16
+SKU0049,Beverages,B,Chilled,03-09-04,1.28,12.79
+SKU0050,Grocery,B,Ambient-B,02-09-07,2.13,6.3
+SKU0051,Beverages,A,Bulk,04-05-01,1.22,16.61
+SKU0052,Beverages,C,Chilled,03-10-06,0.69,5.78
+SKU0053,Grocery,A,High-Bay,05-07-06,0.44,19.32
+SKU0054,Beverages,C,Chilled,03-05-06,0.3,3.25
+SKU0055,Household,A,Ambient-B,02-04-02,5.92,20.05
+SKU0056,Seasonal,C,Chilled,03-12-07,2.69,9.94
+SKU0057,Grocery,B,Bulk,04-11-07,0.63,19.73
+SKU0058,Beverages,A,Bulk,04-07-05,0.66,19.3
+SKU0059,Seasonal,B,Bulk,04-13-03,2.82,4.87
+SKU0060,Grocery,B,Chilled,03-08-03,0.37,21.0
+SKU0061,Household,B,Ambient-A,01-08-05,0.61,13.35
+SKU0062,Seasonal,C,Ambient-A,01-08-01,0.35,14.26
+SKU0063,Health & Beauty,C,Bulk,04-11-07,1.98,20.81
+SKU0064,Household,A,Bulk,04-03-07,0.42,1.57
+SKU0065,Grocery,B,Bulk,04-07-06,1.26,12.47
+SKU0066,Grocery,A,Ambient-B,02-13-02,0.7,12.74
+SKU0067,Seasonal,B,Ambient-B,02-06-04,0.66,4.69
+SKU0068,Pet Care,A,Chilled,03-11-02,1.94,13.76
+SKU0069,Household,A,Chilled,03-11-01,1.15,9.54
+SKU0070,Seasonal,B,High-Bay,05-09-04,0.99,18.2
+SKU0071,Grocery,B,Bulk,04-08-02,2.25,7.54
+SKU0072,Household,B,Bulk,04-07-02,3.06,8.4
+SKU0073,Seasonal,C,Chilled,03-03-01,0.59,3.93
+SKU0074,Seasonal,B,High-Bay,05-11-04,2.57,20.75
+SKU0075,Household,B,Chilled,03-02-04,1.9,16.09
+SKU0076,Beverages,B,Chilled,03-12-02,0.4,7.36
+SKU0077,Grocery,C,High-Bay,05-02-01,2.05,6.28
+SKU0078,Grocery,A,Ambient-B,02-09-04,0.49,16.77
+SKU0079,Grocery,B,Ambient-B,02-07-07,1.01,12.3
+SKU0080,Health & Beauty,A,Ambient-A,01-01-04,2.79,2.24
+SKU0081,Health & Beauty,C,Ambient-A,01-06-05,3.08,10.51
+SKU0082,Health & Beauty,B,Ambient-A,01-14-01,1.54,9.09
+SKU0083,Health & Beauty,C,Chilled,03-02-06,0.16,6.02
+SKU0084,Beverages,B,Chilled,03-01-06,1.7,6.55
+SKU0085,Pet Care,C,High-Bay,05-13-05,1.35,15.5
+SKU0086,Beverages,B,Ambient-A,01-14-03,1.33,18.66
+SKU0087,Health & Beauty,A,Ambient-A,01-12-01,0.5,5.5
+SKU0088,Beverages,C,Ambient-A,01-12-02,1.45,12.9
+SKU0089,Grocery,B,Ambient-B,02-04-05,0.18,9.19
+SKU0090,Seasonal,B,Ambient-B,02-07-04,0.44,21.51
+SKU0091,Beverages,C,Bulk,04-04-05,0.44,11.03
+SKU0092,Grocery,C,Ambient-B,02-02-02,1.83,12.22
+SKU0093,Household,C,Ambient-B,02-10-01,7.42,13.07
+SKU0094,Household,B,Bulk,04-05-04,0.99,2.78
+SKU0095,Household,B,Ambient-A,01-02-06,0.64,20.18
+SKU0096,Grocery,A,Chilled,03-11-07,1.14,16.6
+SKU0097,Health & Beauty,C,Bulk,04-02-03,1.59,8.55
+SKU0098,Household,C,High-Bay,05-13-06,1.55,3.46
+SKU0099,Household,B,Ambient-B,02-03-07,1.5,15.75
+SKU0100,Pet Care,B,Bulk,04-04-02,1.9,15.04
+SKU0101,Household,B,High-Bay,05-02-02,0.6,20.34
+SKU0102,Seasonal,A,Ambient-B,02-02-01,1.75,18.15
+SKU0103,Seasonal,B,Chilled,03-05-04,3.41,3.56
+SKU0104,Pet Care,A,Bulk,04-02-06,1.88,9.89
+SKU0105,Beverages,A,Ambient-A,01-10-01,0.79,2.15
+SKU0106,Grocery,B,High-Bay,05-10-01,1.99,2.42
+SKU0107,Household,C,Chilled,03-10-04,1.72,20.7
+SKU0108,Pet Care,B,Ambient-A,01-02-07,0.78,8.32
+SKU0109,Grocery,C,Ambient-B,02-02-06,0.74,14.45
+SKU0110,Grocery,C,Chilled,03-06-01,0.87,20.6
+SKU0111,Grocery,C,Chilled,03-03-06,5.9,1.57
+SKU0112,Grocery,C,High-Bay,05-09-06,2.78,16.9
+SKU0113,Pet Care,B,Bulk,04-01-02,3.1,4.77
+SKU0114,Beverages,A,Ambient-A,01-05-04,0.99,16.02
+SKU0115,Grocery,B,Ambient-A,01-12-04,0.56,20.63
+SKU0116,Pet Care,B,Chilled,03-04-03,1.1,8.47
+SKU0117,Grocery,C,Ambient-A,01-05-06,2.33,20.51
+SKU0118,Pet Care,C,Chilled,03-05-03,1.54,8.97
+SKU0119,Household,B,Chilled,03-06-04,0.25,5.1
+SKU0120,Household,A,Bulk,04-12-06,1.56,20.66
+SKU0121,Household,B,Ambient-B,02-06-02,1.17,7.27
+SKU0122,Pet Care,C,Ambient-B,02-09-07,1.71,1.48
+SKU0123,Grocery,B,High-Bay,05-01-04,0.22,17.77
+SKU0124,Grocery,C,Ambient-A,01-03-04,1.56,10.0
+SKU0125,Grocery,B,Bulk,04-06-04,1.5,10.44
+SKU0126,Household,C,Bulk,04-03-01,0.95,15.41
+SKU0127,Pet Care,B,Ambient-B,02-14-07,7.52,18.22
+SKU0128,Beverages,A,Ambient-A,01-14-06,0.47,14.23
+SKU0129,Grocery,B,Ambient-B,02-13-01,0.23,4.45
+SKU0130,Grocery,B,Ambient-A,01-02-03,0.29,5.44
+SKU0131,Health & Beauty,B,High-Bay,05-02-02,1.98,1.66
+SKU0132,Beverages,C,Ambient-A,01-06-03,2.56,19.21
+SKU0133,Health & Beauty,A,Chilled,03-08-01,2.05,4.48
+SKU0134,Health & Beauty,B,Ambient-A,01-13-02,2.19,15.35
+SKU0135,Grocery,A,Ambient-A,01-06-06,1.9,3.16
+SKU0136,Beverages,B,Ambient-B,02-07-03,2.18,3.38
+SKU0137,Seasonal,B,Chilled,03-12-03,1.38,9.72
+SKU0138,Household,B,Chilled,03-14-07,0.9,5.02
+SKU0139,Grocery,B,High-Bay,05-12-07,1.71,9.87
+SKU0140,Beverages,C,Bulk,04-06-02,6.64,16.76
+SKU0141,Beverages,B,Ambient-B,02-08-05,0.7,18.06
+SKU0142,Health & Beauty,B,Ambient-B,02-11-02,1.59,7.42
+SKU0143,Pet Care,C,Ambient-A,01-10-02,1.29,18.24
+SKU0144,Pet Care,A,Ambient-B,02-12-04,0.73,18.52
+SKU0145,Grocery,B,Ambient-A,01-03-06,0.32,11.82
+SKU0146,Seasonal,A,Bulk,04-02-04,0.11,6.04
+SKU0147,Grocery,B,Ambient-B,02-08-02,0.74,3.31
+SKU0148,Grocery,B,Chilled,03-13-03,0.88,3.16
+SKU0149,Health & Beauty,A,High-Bay,05-08-02,0.74,16.04
+SKU0150,Health & Beauty,C,Ambient-A,01-12-05,1.93,6.06
+SKU0151,Pet Care,B,Bulk,04-06-04,0.8,8.94
+SKU0152,Pet Care,B,Ambient-B,02-05-02,2.19,1.27
+SKU0153,Grocery,A,Ambient-B,02-05-05,0.42,7.74
+SKU0154,Grocery,C,Ambient-B,02-05-01,2.72,11.22
+SKU0155,Beverages,C,Bulk,04-14-06,1.14,13.91
+SKU0156,Pet Care,C,Ambient-B,02-10-02,2.37,10.87
+SKU0157,Grocery,C,Ambient-A,01-09-03,0.77,4.04
+SKU0158,Grocery,C,Ambient-B,02-04-02,4.55,17.82
+SKU0159,Health & Beauty,A,Bulk,04-04-03,0.22,1.76
+SKU0160,Seasonal,B,Chilled,03-05-01,1.19,3.88
+SKU0161,Beverages,C,Ambient-B,02-10-05,0.3,15.73
+SKU0162,Grocery,B,Ambient-B,02-03-04,1.36,18.23
+SKU0163,Pet Care,B,Ambient-A,01-05-05,1.25,6.97
+SKU0164,Beverages,C,High-Bay,05-11-05,1.33,18.79
+SKU0165,Beverages,A,Chilled,03-05-03,0.34,18.1
+SKU0166,Health & Beauty,A,Ambient-B,02-03-04,0.43,8.43
+SKU0167,Grocery,B,Ambient-B,02-06-02,0.38,6.46
+SKU0168,Seasonal,B,Bulk,04-07-04,1.87,9.06
+SKU0169,Health & Beauty,A,Chilled,03-11-06,1.46,9.22
+SKU0170,Beverages,C,High-Bay,05-02-04,2.21,6.07
+SKU0171,Beverages,C,Ambient-B,02-13-04,1.32,9.15
+SKU0172,Grocery,C,High-Bay,05-05-07,4.0,19.46
+SKU0173,Pet Care,B,Bulk,04-14-01,1.07,5.15
+SKU0174,Grocery,B,Ambient-B,02-07-01,1.17,1.13
+SKU0175,Beverages,C,Bulk,04-03-06,1.16,10.8
+SKU0176,Grocery,C,High-Bay,05-14-07,1.82,19.6
+SKU0177,Grocery,B,Ambient-A,01-03-06,0.92,1.11
+SKU0178,Health & Beauty,A,Chilled,03-05-03,0.99,5.96
+SKU0179,Health & Beauty,B,Bulk,04-01-07,1.89,16.02
+SKU0180,Pet Care,A,Ambient-A,01-01-05,6.81,20.01
